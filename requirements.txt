@@ -1,0 +1,7 @@
+SpeechRecognition==3.10.0
+PyAudio==0.2.13
+PyQt5==5.15.9
+numpy==1.26.3
+python-docx==0.8.11
+sounddevice==0.4.6
+vosk==0.3.45 
