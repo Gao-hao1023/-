@@ -31,7 +31,7 @@ ENV/
 *.swo
 
 # Project specific
-model/
 *.wav
 *.mp3
-*.docx 
+*.docx
+
